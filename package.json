@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "mammoth": "^1.9.1",
     "next": "^15.2.4",
     "pdfjs-dist": "^4.10.38",
